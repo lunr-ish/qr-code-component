@@ -47,3 +47,11 @@ p {
   white-space: nowrap;
   width: 1px;
 }
+
+.card {
+  background: hsl(var(--clr-card-bg));
+  max-width: 20rem;
+  padding: 1rem;
+  border-radius: 1.25rem;
+  box-shadow: 0 1.5625rem 1.5625rem hsla(0, 0%, 0%, 4.77%);
+}
