@@ -55,3 +55,8 @@ p {
   border-radius: 1.25rem;
   box-shadow: 0 1.5625rem 1.5625rem hsla(0, 0%, 0%, 4.77%);
 }
+
+.img-wrapper {
+  border-radius: 0.625rem;
+  overflow: hidden;
+}
