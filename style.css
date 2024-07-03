@@ -1,8 +1,8 @@
 :root {
-  --clr-white: 0, 0%, 100%;
-  --clr-light-gray: 212, 45%, 89%;
-  --clr-grayish-blue: 220, 15%, 55%;
-  --clr-dark-blue: 218, 44%, 22%;
+  --clr-bg: 212, 45%, 89%;
+  --clr-card-bg: 0, 0%, 100%;
+  --clr-primary: 218, 44%, 22%;
+  --clr-secondary: 220, 15%, 55%;
 
   --ff-outfit: "Outfit", sans-serif;
 }
