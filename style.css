@@ -20,6 +20,7 @@ body {
   min-height: 100vh;
   font-family: var(--ff-outfit);
   font-size: 0.9375rem; /* 15px */
+  padding: 1rem;
   background: hsl(var(--clr-bg));
   color: hsl(var(--clr-primary));
   display: flex;
