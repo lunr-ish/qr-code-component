@@ -20,6 +20,11 @@ body {
   min-height: 100vh;
   font-family: var(--ff-outfit);
   font-size: 0.9375rem; /* 15px */
+  background: hsl(var(--clr-bg));
+  color: hsl(var(--clr-primary));
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 img {
