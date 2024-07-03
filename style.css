@@ -6,3 +6,29 @@
 
   --ff-outfit: "Outfit", sans-serif;
 }
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  font-family: var(--ff-outfit);
+  font-size: 0.9375rem; /* 15px */
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+h1,
+h2,
+p {
+  overflow-wrap: break-word;
+}
